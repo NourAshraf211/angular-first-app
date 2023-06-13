@@ -1,0 +1,7 @@
+.btn {
+    background-color: cadetblue;
+}
+
+.btn.active{
+    background-color: wheat;
+}
